@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSE 121b | W01: Programming Tasks</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body>
+  <nav>
+    <ul id="menu">
+      <li><a id="toggleMenu">&equiv;</a></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="w01-task.html">W1 Task</a></li>
+      <li><a href="w03-task.html">W3 Task</a></li>
+      <li><a href="w04-task.html">W4 Task</a></li>
+      <li><a href="w05-task.html">W5 Task</a></li>
+      <li><a href="project.html"class="active">Project</a></li>
+    </ul>
+  </nav>
+
+<header>
+    <h1>MY PROJECT</h1>
+</header>
+
+<main id="project">
+    <h2>Employee Data Finder</h2>
+    
+    <section id="search">
+        <h3>Employee ID</h3>
+        <div>
+            <label for="idbox">ID:</label>
+            <input type="text" id="idbox" name="idbox">
+        </div>
+        <br>
+        <div>
+            <input type="button" id="searchButtom" value="Search">
+        </div>
+    </section>
+    <section id="result">
+        <div>
+            <label for="name">Name:</label>
+            <input type="text" id="namebox" name="name" disabled>
+        </div>
+        <br>
+        <div>
+            <label for="mail">Email:</label>
+            <input type="text" id="mailbox" name="mail" disabled>
+        </div>
+        <br>
+        <div>
+            <label for="job">Position:</label>
+            <input type="text" id="jobbox" name="job" disabled>
+        </div>
+        <br>
+        <div>
+            <label for="department">Department:</label>
+            <input type="text" id="departmentbox" name="department" disabled>
+        </div>
+        <br>
+        <div>
+            <label for="phone">Phone Number:</label>
+            <input type="text" id="phonebox" name="naphoneme" disabled>
+        </div>
+        <br>
+        <div>
+            <label for="status">Employment Status:</label>
+            <input type="text" id="statusbox" name="status" disabled>
+        </div>
+    </section>
+
+</main>
+
+  <footer>
+    &copy;<span id="year"></span> | Week 06 - Project | CSE 121b
+  </footer>
+  <script src="scripts/main.js"></script>
+  <script>
+    document.getElementById("year").innerHTML = new Date().getFullYear();
+  </script>
+  <script src="scripts/project.js"></script>
+</body>
+</html>

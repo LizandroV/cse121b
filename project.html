@@ -9,6 +9,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap"
     rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
   <link rel="stylesheet" href="styles/main.css">
 </head>
 
@@ -29,51 +30,19 @@
     <h1>MY PROJECT</h1>
 </header>
 
-<main id="project">
-    <h2>Employee Data Finder</h2>
-    
-    <section id="search">
-        <h3>Employee ID</h3>
-        <div>
-            <label for="idbox">ID:</label>
-            <input type="text" id="idbox" name="idbox">
+<main>
+
+    <div class="container">
+        <h1>Employee Data Finder</h1>
+        <div class="filter-form">
+            <label for="idInput">Enter ID to search:</label>
+            <input type="text" id="idInput">
+            <button id="searchbuttom"><i class="fas fa-search"></i> Search</button>
         </div>
-        <br>
-        <div>
-            <input type="button" id="searchButtom" value="Search">
+        <div id="result" class="result">
+            <p class="error"><i class="fas fa-exclamation-circle"></i> ID not found.</p>
         </div>
-    </section>
-    <section id="result">
-        <div>
-            <label for="name">Name:</label>
-            <input type="text" id="namebox" name="name" disabled>
-        </div>
-        <br>
-        <div>
-            <label for="mail">Email:</label>
-            <input type="text" id="mailbox" name="mail" disabled>
-        </div>
-        <br>
-        <div>
-            <label for="job">Position:</label>
-            <input type="text" id="jobbox" name="job" disabled>
-        </div>
-        <br>
-        <div>
-            <label for="department">Department:</label>
-            <input type="text" id="departmentbox" name="department" disabled>
-        </div>
-        <br>
-        <div>
-            <label for="phone">Phone Number:</label>
-            <input type="text" id="phonebox" name="naphoneme" disabled>
-        </div>
-        <br>
-        <div>
-            <label for="status">Employment Status:</label>
-            <input type="text" id="statusbox" name="status" disabled>
-        </div>
-    </section>
+    </div>
 
 </main>
 

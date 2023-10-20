@@ -1,0 +1,929 @@
+[
+ {
+  "id": 80264492,
+  "name": "Ramos Elias Jose Federico",
+  "email": "jramos@tsc.com.pe",
+  "position": "Coordinador",
+  "department": "Calidad Textil Y Proyectos Especiales",
+  "phone": 983513714,
+  "status": "active"
+ },
+ {
+  "id": 43480514,
+  "name": "Solis Espinoza Erica Soledad",
+  "email": "esoliz@tsc.com.pe",
+  "position": "Supervisor",
+  "department": "Calidad",
+  "phone": 933060070,
+  "status": "active"
+ },
+ {
+  "id": 21287465,
+  "name": "Manani Suarez Luz Marleni",
+  "email": "lmanani@tsc.com.pe",
+  "position": "Supervisor",
+  "department": "Servicios Generales",
+  "phone": 933006985,
+  "status": "active"
+ },
+ {
+  "id": 19256101,
+  "name": "Uchillan Enco Ana Maria",
+  "email": "auchillan@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Calidad Servicios Lima",
+  "phone": 933046413,
+  "status": "active"
+ },
+ {
+  "id": 21858543,
+  "name": "Aranguren Flores Luz Maria",
+  "email": "laranguren@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Calidad Servicios Lima",
+  "phone": 922944186,
+  "status": "active"
+ },
+ {
+  "id": 42806085,
+  "name": "Egusquiza Giribaldi Cesar Armando",
+  "email": "cegusquiza@tsc.com.pe",
+  "position": "Jefe",
+  "department": "Control Interno",
+  "phone": 922998501,
+  "status": "active"
+ },
+ {
+  "id": 40611292,
+  "name": "Tasaico Hernandez Claudia Suheid",
+  "email": "ctasaico@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Control Interno",
+  "phone": 933365596,
+  "status": "active"
+ },
+ {
+  "id": 75673508,
+  "name": "Casio Prado Evi Mirella",
+  "email": "ecasiz@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Comercial",
+  "phone": 960653835,
+  "status": "active"
+ },
+ {
+  "id": 25582422,
+  "name": "Curotto Saavedra Christian Martin",
+  "email": "ccurotto@tsc.com.pe",
+  "position": "Jefe",
+  "department": "Abastecimiento Textil",
+  "phone": 924215494,
+  "status": "active"
+ },
+ {
+  "id": 40400113,
+  "name": "Peche Bruzon Jose Armando",
+  "email": "jpeche@tsc.com.pe",
+  "position": "Transportista",
+  "department": "Almacen De Productos En Proceso",
+  "phone": 970781142,
+  "status": "active"
+ },
+ {
+  "id": 42834489,
+  "name": "Alvites Rituay Ruben",
+  "email": "ralvites@tsc.com.pe",
+  "position": "Planner",
+  "department": "Planeamiento Y Control De La Produccion",
+  "phone": 933028401,
+  "status": "active"
+ },
+ {
+  "id": 76614894,
+  "name": "Jazmine Nicole Cook Elera",
+  "email": "ejazmz@tsc.com.pe",
+  "position": "Ejecutivo Comercial",
+  "department": "Comercial",
+  "phone": 955373326,
+  "status": "active"
+ },
+ {
+  "id": 44602983,
+  "name": "Alvarez Huaman Alexander",
+  "email": "ealvaz@tsc.com.pe",
+  "position": "Coordinador",
+  "department": "Costos",
+  "phone": 924098602,
+  "status": "active"
+ },
+ {
+  "id": 9593114,
+  "name": "Aliaga Maravi Lilia Janet",
+  "email": "ealiaz@tsc.com.pe",
+  "position": "Analista",
+  "department": "Logistica",
+  "phone": 983513759,
+  "status": "active"
+ },
+ {
+  "id": 75433319,
+  "name": "Huerto Calixto Neiva Carolinda",
+  "email": "nhuerto@tsc.com.pe",
+  "position": "Controlador Textil",
+  "department": "Abastecimiento Textil",
+  "phone": 934207207,
+  "status": "active"
+ },
+ {
+  "id": 21790927,
+  "name": "Tasayco Almeyda Jose Abad",
+  "email": "jtasayco@tsc.com.pe",
+  "position": "Supervisor",
+  "department": "Calidad Textil Y Proyectos Especiales",
+  "phone": 933590752,
+  "status": "active"
+ },
+ {
+  "id": 10289129,
+  "name": "Benof Barreto Yannina Dolly",
+  "email": "ybenof@tsc.com.pe",
+  "position": "Jefe",
+  "department": "Calidad Servicios Lima",
+  "phone": 960562398,
+  "status": "active"
+ },
+ {
+  "id": 21862020,
+  "name": "Briceño Cespedes Erroll Enrique",
+  "email": "ebriceño@tsc.com.pe",
+  "position": "Jefe",
+  "department": "Calidad Textil Y Proyectos Especiales",
+  "phone": 983463784,
+  "status": "active"
+ },
+ {
+  "id": 10161585,
+  "name": "Sarmiento Lunarejo Celso Jesus",
+  "email": "csarmiento@tsc.com.pe",
+  "position": "Analista",
+  "department": "Diseño Y Desarrollo De Producto",
+  "phone": 922169288,
+  "status": "active"
+ },
+ {
+  "id": 73689559,
+  "name": "Cerna Ramirez Allyson",
+  "email": "ecernz@tsc.com.pe",
+  "position": "Analista",
+  "department": "Abastecimiento",
+  "phone": 912073117,
+  "status": "active"
+ },
+ {
+  "id": 29711233,
+  "name": "Carrera Torres Wildo Alonso",
+  "email": "ecarrz@tsc.com.pe",
+  "position": "Contador General",
+  "department": "Contabilidad",
+  "phone": 924059689,
+  "status": "active"
+ },
+ {
+  "id": 90000140,
+  "name": "Auxiliar Ci Apt",
+  "email": "cauxiliar@tsc.com.pe",
+  "position": "Auxiliar",
+  "department": "Control Interno",
+  "phone": 924159113,
+  "status": "active"
+ },
+ {
+  "id": 77218929,
+  "name": "Renzo Fabian Bravo Rojas",
+  "email": "erenzz@tsc.com.pe",
+  "position": "Analista de Compras",
+  "department": "Logistica",
+  "phone": 947209106,
+  "status": "active"
+ },
+ {
+  "id": 73373102,
+  "name": "Sergio Armando Sanchez Salazar",
+  "email": "esergz@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Comercial",
+  "phone": 936649126,
+  "status": "active"
+ },
+ {
+  "id": 43015384,
+  "name": "Barazorda Huaman Alexander",
+  "email": "hbarazorda@tsc.com.pe",
+  "position": "Analista",
+  "department": "Diseño Y Desarrollo De Producto",
+  "phone": 934205984,
+  "status": "active"
+ },
+ {
+  "id": 47284784,
+  "name": "Kelly Carmen Aymar Mallqui",
+  "email": "akelly@tsc.com.pe",
+  "position": "Analista",
+  "department": "Administracion De Personal",
+  "phone": 934164592,
+  "status": "active"
+ },
+ {
+  "id": 77271869,
+  "name": "Benavente Huayllani Milagros Katiuska",
+  "email": "mbenavente@tsc.com.pe",
+  "position": "Analista",
+  "department": "Desarrollo Textil",
+  "phone": 933907991,
+  "status": "active"
+ },
+ {
+  "id": 40724825,
+  "name": "Hipolito Mattos Huber Jose",
+  "email": "hhipolito@tsc.com.pe",
+  "position": "Jefe",
+  "department": "Desarrollo Textil",
+  "phone": 924642528,
+  "status": "active"
+ },
+ {
+  "id": 70313749,
+  "name": "Tamayoshi Miyagui Diego Juan",
+  "email": "etamaz@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Comercial",
+  "phone": 936694789,
+  "status": "active"
+ },
+ {
+  "id": 41063257,
+  "name": "Monroy Manrique Adriana Sofia",
+  "email": "amonroy@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Calidad Servicios Lima",
+  "phone": 922836095,
+  "status": "active"
+ },
+ {
+  "id": 76773635,
+  "name": "Sanchez Quiroz Sofia Jesus",
+  "email": "esancz@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Comercial",
+  "phone": 955169814,
+  "status": "active"
+ },
+ {
+  "id": 46212550,
+  "name": "Trujillo Huarachi Sharain Brillit",
+  "email": "etrujz@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Comercial",
+  "phone": 955172335,
+  "status": "active"
+ },
+ {
+  "id": 73115996,
+  "name": "Linda Porras Saravia",
+  "email": "elindz@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Comercial",
+  "phone": 955167612,
+  "status": "active"
+ },
+ {
+  "id": 42761545,
+  "name": "Jimenez Ipanaque Maria Esther",
+  "email": "mjimenez@tsc.com.pe",
+  "position": "Analista",
+  "department": "Diseño Y Desarrollo De Producto",
+  "phone": 922790718,
+  "status": "active"
+ },
+ {
+  "id": 45820821,
+  "name": "Chavez Montenegro Miguel Angel",
+  "email": "mchavez@tsc.com.pe",
+  "position": "Analista",
+  "department": "Desarrollo Textil",
+  "phone": 922853850,
+  "status": "active"
+ },
+ {
+  "id": 32132440,
+  "name": "Rodriguez Sarrin Pedro Julio Francisco",
+  "email": "jrodriguez@tsc.com.pe",
+  "position": "Analista",
+  "department": "Desarrollo Textil",
+  "phone": 922623571,
+  "status": "active"
+ },
+ {
+  "id": 43079933,
+  "name": "Lizarme Ramirez Janet",
+  "email": "rlizarme@tsc.com.pe",
+  "position": "Analista",
+  "department": "Desarrollo Textil",
+  "phone": 960377990,
+  "status": "active"
+ },
+ {
+  "id": 71937088,
+  "name": "Veliz Mamani Katherine Paola",
+  "email": "eveliz@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Comercial",
+  "phone": 946012965,
+  "status": "active"
+ },
+ {
+  "id": 10880255,
+  "name": "Castro Diaz Dolly Melina",
+  "email": "dcastro@tsc.com.pe",
+  "position": "Analista",
+  "department": "Proyectos - Genesys Data",
+  "phone": 960595990,
+  "status": "active"
+ },
+ {
+  "id": 45826070,
+  "name": "Teddy del Aguila",
+  "email": "eteddz@tsc.com.pe",
+  "position": "Ejecutivo Comercial",
+  "department": "Comercial",
+  "phone": 948448089,
+  "status": "active"
+ },
+ {
+  "id": 42147851,
+  "name": "Inchicaqui Alvarado Desy Joana",
+  "email": "dinchicaqui@tsc.com.pe",
+  "position": "Analista",
+  "department": "Diseño Y Desarrollo De Producto",
+  "phone": 933568366,
+  "status": "active"
+ },
+ {
+  "id": 9491091,
+  "name": "Cortez Esteves Alfonso Javier",
+  "email": "acortez@tsc.com.pe",
+  "position": "Gerente General",
+  "department": "Gerencia General",
+  "phone": 926906345,
+  "status": "active"
+ },
+ {
+  "id": 40195721,
+  "name": "Montes De Oca Santos Abel Alexander Jhonatan",
+  "email": "emontz@tsc.com.pe",
+  "position": "Gerente",
+  "department": "Abastecimiento",
+  "phone": 922574395,
+  "status": "active"
+ },
+ {
+  "id": 43649273,
+  "name": "Tapia Elera Domenica Annabel",
+  "email": "etapiz@tsc.com.pe",
+  "position": "Jefe",
+  "department": "Logistica",
+  "phone": 960496705,
+  "status": "active"
+ },
+ {
+  "id": 21812105,
+  "name": "Torres Sotelo Sylvia Janet",
+  "email": "etorrz@tsc.com.pe",
+  "position": "Analista",
+  "department": "Logistica",
+  "phone": 947261962,
+  "status": "active"
+ },
+ {
+  "id": 72472323,
+  "name": "Motta Huaccharaqui Fernando Raul",
+  "email": "fmotta@tsc.com.pe",
+  "position": "Analista",
+  "department": "Planeamiento Financiero Y Control De Gestion",
+  "phone": 983469677,
+  "status": "active"
+ },
+ {
+  "id": 76731661,
+  "name": "Caballero Sequeiros Nelly",
+  "email": "scaballero@tsc.com.pe",
+  "position": "Analista",
+  "department": "Control Interno",
+  "phone": 933622684,
+  "status": "active"
+ },
+ {
+  "id": 46551432,
+  "name": "Ochoa Huaroto Suzett Marilyn",
+  "email": "sochoa@tsc.com.pe",
+  "position": "Planner",
+  "department": "Planeamiento Y Control De La Produccion",
+  "phone": 955170138,
+  "status": "active"
+ },
+ {
+  "id": 10141157,
+  "name": "Salguero Rios Juan Martin",
+  "email": "jsalguero@tsc.com.pe",
+  "position": "Analista Programador",
+  "department": "Abastecimiento Textil",
+  "phone": 946480170,
+  "status": "active"
+ },
+ {
+  "id": 72196841,
+  "name": "Cabello Pinillos Giancarlo",
+  "email": "pcabello@tsc.com.pe",
+  "position": "Gerente",
+  "department": "Administracion Y Finanzas",
+  "phone": 955429915,
+  "status": "active"
+ },
+ {
+  "id": 77014235,
+  "name": "Urcohuaranga Villar Ana Luz",
+  "email": "aurcohuaranga@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Calidad Textil y Proyectos Especiales",
+  "phone": 955426464,
+  "status": "active"
+ },
+ {
+  "id": 45553426,
+  "name": "Merino Farro Luis Rafael",
+  "email": "emeriz@tsc.com.pe",
+  "position": "Ejecutivo Comercial",
+  "department": "Comercial",
+  "phone": 983513902,
+  "status": "active"
+ },
+ {
+  "id": 72257062,
+  "name": "Bryan Mandujano Manatri",
+  "email": "mbryan@tsc.com.pe",
+  "position": "Analista",
+  "department": "Desarrollo Textil",
+  "phone": 912073126,
+  "status": "active"
+ },
+ {
+  "id": 16693049,
+  "name": "Bances Solis Segundo Gilberto",
+  "email": "sbances@tsc.com.pe",
+  "position": "Analista",
+  "department": "Abastecimiento Textil",
+  "phone": 946017415,
+  "status": "active"
+ },
+ {
+  "id": 71274337,
+  "name": "Isabel Taricuarima Echeverria",
+  "email": "tisabel@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Calidad Textil y Proyectos Especiales",
+  "phone": 933064908,
+  "status": "active"
+ },
+ {
+  "id": 40866523,
+  "name": "Capillo Solis Mirtha Andrea",
+  "email": "mcapillo@tsc.com.pe",
+  "position": "Supervisor",
+  "department": "Calidad Textil Y Proyectos Especiales",
+  "phone": 934150202,
+  "status": "active"
+ },
+ {
+  "id": 41442919,
+  "name": "Arana Guerra Candy",
+  "email": "earanz@tsc.com.pe",
+  "position": "Ejecutivo Comercial",
+  "department": "Comercial",
+  "phone": 937252814,
+  "status": "active"
+ },
+ {
+  "id": 25853342,
+  "name": "Mejia Bravo Mesias Valentin",
+  "email": "mmejia@tsc.com.pe",
+  "position": "Analista",
+  "department": "Diseño Y Desarrollo De Producto",
+  "phone": 933065102,
+  "status": "active"
+ },
+ {
+  "id": 42086211,
+  "name": "Chira Mendoza Carlos Miguel",
+  "email": "cchira@tsc.com.pe",
+  "position": "Supervisor",
+  "department": "Calidad Textil Y Proyectos Especiales",
+  "phone": 946459729,
+  "status": "active"
+ },
+ {
+  "id": 46568058,
+  "name": "Taboada Torres Karen Melissa",
+  "email": "ktaboada@tsc.com.pe",
+  "position": "Jefe",
+  "department": "Planeamiento Financiero Y Control De Gestion",
+  "phone": 922615827,
+  "status": "active"
+ },
+ {
+  "id": 41517501,
+  "name": "Trillo Girao Cristian Ysrael",
+  "email": "ctrillo@tsc.com.pe",
+  "position": "Jefe",
+  "department": "Almacen De Productos En Proceso",
+  "phone": 960277709,
+  "status": "active"
+ },
+ {
+  "id": 25858485,
+  "name": "Huanca Huayhuarima Elber",
+  "email": "hhuanca@tsc.com.pe",
+  "position": "Supervisor",
+  "department": "Almacen De Tránsito",
+  "phone": 948449979,
+  "status": "active"
+ },
+ {
+  "id": 42503578,
+  "name": "Rosas Granados Lisbeth Liseta",
+  "email": "lrosas@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Calidad Servicios Lima",
+  "phone": 960101822,
+  "status": "active"
+ },
+ {
+  "id": 45726147,
+  "name": "Mayta Quispe Abigail",
+  "email": "qmayta@tsc.com.pe",
+  "position": "Analista",
+  "department": "Desarrollo Textil",
+  "phone": 936704859,
+  "status": "active"
+ },
+ {
+  "id": 76511598,
+  "name": "Paiva Hurtado Maricruz",
+  "email": "hpaiva@tsc.com.pe",
+  "position": "Analista",
+  "department": "Desarrollo Textil",
+  "phone": 936309790,
+  "status": "active"
+ },
+ {
+  "id": 41521417,
+  "name": "Jimenez Moreno Lelys Mercedes",
+  "email": "ejimez@tsc.com.pe",
+  "position": "Ejecutivo Comercial",
+  "department": "Comercial",
+  "phone": 922635762,
+  "status": "active"
+ },
+ {
+  "id": 43533918,
+  "name": "Santiago Pacherres Rony Joel",
+  "email": "rsantiago@tsc.com.pe",
+  "position": "Supervisor",
+  "department": "Almacen De Productos En Proceso",
+  "phone": 933447212,
+  "status": "active"
+ },
+ {
+  "id": 73946620,
+  "name": "Vilca Vilca Yenifer",
+  "email": "vvilca@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Calidad Textil Y Proyectos Especiales",
+  "phone": 977595034,
+  "status": "active"
+ },
+ {
+  "id": 76164521,
+  "name": "Samuel Torres Grandez",
+  "email": "tsamuel@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Desarrollo Textil",
+  "phone": 947236001,
+  "status": "active"
+ },
+ {
+  "id": 45485748,
+  "name": "Huaman Yauri Anthony Daniel",
+  "email": "ahuaman@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Desarrollo Textil",
+  "phone": 947235726,
+  "status": "active"
+ },
+ {
+  "id": 71262278,
+  "name": "Culqui Mendoza Frank Edson",
+  "email": "eculqz@tsc.com.pe",
+  "position": "Analista",
+  "department": "Exportaciones",
+  "phone": 983513726,
+  "status": "active"
+ },
+ {
+  "id": 76735115,
+  "name": "Carrasco Vega Joel",
+  "email": "vcarrasco@tsc.com.pe",
+  "position": "Operario",
+  "department": "Almacen De Productos Terminados",
+  "phone": 960340959,
+  "status": "active"
+ },
+ {
+  "id": 43820841,
+  "name": "Huarachi Sarmiento Liz Evi",
+  "email": "lhuarachi@tsc.com.pe",
+  "position": "Analista",
+  "department": "Diseño Y Desarrollo De Producto",
+  "phone": 960251306,
+  "status": "active"
+ },
+ {
+  "id": 45247109,
+  "name": "Espinoza Quispe Katherine Maria",
+  "email": "eespiz@tsc.com.pe",
+  "position": "Ejecutivo Comercial",
+  "department": "Comercial",
+  "phone": 970746128,
+  "status": "active"
+ },
+ {
+  "id": 10673098,
+  "name": "Borja Rosales Gabriela Jessenia",
+  "email": "eborjz@tsc.com.pe",
+  "position": "Gerente",
+  "department": "Comercial",
+  "phone": 993482964,
+  "status": "active"
+ },
+ {
+  "id": 9776199,
+  "name": "Gadea Cordova Rosa Maria",
+  "email": "rgadea@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Calidad Servicios Lima",
+  "phone": 955165813,
+  "status": "active"
+ },
+ {
+  "id": 73266182,
+  "name": "Jhennyfer Cordova Cairampoma",
+  "email": "ejhenz@tsc.com.pe",
+  "position": "Analista",
+  "department": "Exportaciones",
+  "phone": 955169220,
+  "status": "active"
+ },
+ {
+  "id": 45943933,
+  "name": "Giorgio Andre Veramatus Gallegos",
+  "email": "egiorz@tsc.com.pe",
+  "position": "Transportista",
+  "department": "Administracion",
+  "phone": 955171008,
+  "status": "active"
+ },
+ {
+  "id": 10745268,
+  "name": "Luz Marina Alvarado Santivañez",
+  "email": "eluz z@tsc.com.pe",
+  "position": "Jefe",
+  "department": "Comercial ",
+  "phone": 994097603,
+  "status": "active"
+ },
+ {
+  "id": 46392977,
+  "name": "Geraldine Marleny Becerra Ascencios",
+  "email": "gbecerra@tsc.com.pe",
+  "position": "Personal de Enfermeria",
+  "department": "SSOMA",
+  "phone": 947236942,
+  "status": "active"
+ },
+ {
+  "id": 75922175,
+  "name": "Vivanco Casamona Cesar Lizandro",
+  "email": "cvivanco@tsc.com.pe",
+  "position": "Analista",
+  "department": "Tecnología De La Informacion",
+  "phone": 960222815,
+  "status": "active"
+ },
+ {
+  "id": 47070001,
+  "name": "Garcia Santo Daniel Augusto",
+  "email": "egarcz@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Contabilidad",
+  "phone": 960184639,
+  "status": "active"
+ },
+ {
+  "id": 70054107,
+  "name": "Gerlin Clodomiro Diaz Bustamante",
+  "email": "egerlz@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Comercial",
+  "phone": 934075464,
+  "status": "active"
+ },
+ {
+  "id": 8131738,
+  "name": "Guzman Montesinos Miguel Sandro",
+  "email": "mguzman@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Calidad Textil Y Proyectos Especiales",
+  "phone": 960158607,
+  "status": "active"
+ },
+ {
+  "id": 75464800,
+  "name": "Kattya Ancajima Huaringa",
+  "email": "akattya@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Abastecimiento Textil",
+  "phone": 960159531,
+  "status": "active"
+ },
+ {
+  "id": 46333598,
+  "name": "Huaman Saldaña Wilmer Alexander",
+  "email": "whuaman@tsc.com.pe",
+  "position": "Analista",
+  "department": "Desarrollo Textil",
+  "phone": 947189291,
+  "status": "active"
+ },
+ {
+  "id": 75527927,
+  "name": "Paucar Menez Saul Ulises",
+  "email": "spaucar@tsc.com.pe",
+  "position": "Analista",
+  "department": "Control Interno",
+  "phone": 960238709,
+  "status": "active"
+ },
+ {
+  "id": 19239915,
+  "name": "Reaño Gutierrez Jose Luis",
+  "email": "jreaño@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Calidad Textil Y Proyectos Especiales",
+  "phone": 922030797,
+  "status": "active"
+ },
+ {
+  "id": 46120601,
+  "name": "Alejandra Temoche Erquiaga",
+  "email": "ealejz@tsc.com.pe",
+  "position": "Jefe",
+  "department": "Exportaciones",
+  "phone": 981443676,
+  "status": "active"
+ },
+ {
+  "id": 42277931,
+  "name": "Rojas Villegas Nory",
+  "email": "vrojas@tsc.com.pe",
+  "position": "Supervisor",
+  "department": "Calidad Servicios Lima",
+  "phone": 960133203,
+  "status": "active"
+ },
+ {
+  "id": 45596268,
+  "name": "Oquendo Quezada Daniel Alonso",
+  "email": "doquendo@tsc.com.pe",
+  "position": "Coordinador",
+  "department": "Abastecimiento Textil",
+  "phone": 960221142,
+  "status": "active"
+ },
+ {
+  "id": 72572559,
+  "name": "Flavio Fernando del Castillo Murrieta",
+  "email": "cflavio@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Planeamiento Financiero Y Control De Gestion",
+  "phone": 955168901,
+  "status": "active"
+ },
+ {
+  "id": 40679272,
+  "name": "Carlos Alfonso Herrera Chong",
+  "email": "ecarlz@tsc.com.pe",
+  "position": "Gerente ",
+  "department": "Operaciones",
+  "phone": 936096114,
+  "status": "active"
+ },
+ {
+  "id": 71487086,
+  "name": "Aguado Huaman Alessandra Antoine",
+  "email": "eaguaz@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Exportaciones",
+  "phone": 933159061,
+  "status": "active"
+ },
+ {
+  "id": 73191928,
+  "name": "Joseph Huerta Palacios",
+  "email": "ejosez@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Comercial",
+  "phone": 933082725,
+  "status": "active"
+ },
+ {
+  "id": 21884716,
+  "name": "Totocayo Rondon Haydee Anita",
+  "email": "etotoz@tsc.com.pe",
+  "position": "Auditor",
+  "department": "Calidad",
+  "phone": 933084642,
+  "status": "active"
+ },
+ {
+  "id": 73954437,
+  "name": "Jornnet Steysi Villar Capillo",
+  "email": "vjornnet@tsc.com.pe",
+  "position": "Asistente",
+  "department": "Calidad Textil",
+  "phone": 933099592,
+  "status": "active"
+ },
+ {
+  "id": 77080204,
+  "name": "Villanueva Ignacio Yazmin Ruth",
+  "email": "evillz@tsc.com.pe",
+  "position": "Analista",
+  "department": "Abastecimiento",
+  "phone": 933085855,
+  "status": "active"
+ },
+ {
+  "id": 44069583,
+  "name": "Carmen Rosa Vela Rivera",
+  "email": "ecarmz@tsc.com.pe",
+  "position": "Analista",
+  "department": "Comercial",
+  "phone": 970428376,
+  "status": "active"
+ },
+ {
+  "id": 45968459,
+  "name": "Romero Larrañaga Jenny Vanessa",
+  "email": "jromero@tsc.com.pe",
+  "position": "Jefe Legal",
+  "department": "Gerencia General",
+  "phone": 970434499,
+  "status": "active"
+ },
+ {
+  "id": 10540468,
+  "name": "Quiñe Malca Hugo",
+  "email": "mquiñe@tsc.com.pe",
+  "position": "Mecanico",
+  "department": "Mantenimiento General",
+  "phone": 960763683,
+  "status": "active"
+ },
+ {
+  "id": 70067305,
+  "name": "Aybar Meza Xiomi",
+  "email": "maybar@tsc.com.pe",
+  "position": "Analista",
+  "department": "Desarrollo Organizacional",
+  "phone": 933159382,
+  "status": "active"
+ },
+ {
+  "id": 47798764,
+  "name": "Minaya Sulca Zandro Victor",
+  "email": "eminaz@tsc.com.pe",
+  "position": "Coordinador",
+  "department": "Operaciones",
+  "phone": 934168763,
+  "status": "active"
+ }
+]

@@ -20,13 +20,13 @@ function filterById() {
     loadJSON(function (data) {
         var found = false;
         for (var i = 0; i < data.length; i++) {
-            if (data[i].id == idInput) {
-                resultDiv.innerHTML = "<p><i class='fas fa-user'></i> Name: " + data[i].name + "</p>" +
-                                     "<p><i class='fas fa-envelope'></i> Email: " + data[i].email + "</p>" +
-                                     "<p><i class='fas fa-briefcase'></i> Position: " + data[i].position + "</p>" +
-                                     "<p><i class='fas fa-building'></i> Department: " + data[i].department + "</p>" +
-                                     "<p><i class='fas fa-phone'></i> Phone: " + data[i].phone + "</p>" +
-                                     "<p><i class='fas fa-check'></i> Status: " + data[i].status + "</p>";
+            if (data[i].DNI == idInput) {
+                resultDiv.innerHTML = "<p><i class='fas fa-user'></i> Name: " + data[i].Nombres_Mostrado + "</p>" +
+                                     "<p><i class='fas fa-envelope'></i> Email: " + data[i].Correo2 + "</p>" +
+                                     "<p><i class='fas fa-briefcase'></i> Position: " + data[i].Cargo + "</p>" +
+                                     "<p><i class='fas fa-building'></i> Department: " + data[i].Area + "</p>" +
+                                     "<p><i class='fas fa-phone'></i> Pass: " + data[i].Clave + "</p>" +
+                                     "<p><i class='fas fa-check'></i> Creado: " + data[i].Creado + "</p>";
                 found = true;
                 break;
             }
